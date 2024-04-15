@@ -1,6 +1,6 @@
 {
   "name": "task_vault_cli_todo_list",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Created To-Do List with Typescript and Node.js",
   "main": "index.js",
   "type": "module",
